@@ -1,0 +1,32 @@
+{
+  "Actions": [
+    {
+      "Icon": "icon", 
+      "Name": "VoiceMeeter Un/Mute", 
+      "States": [
+        {
+          "Image": "defaultImage",
+          "TitleAlignment": "middle", 
+          "FontSize": "17"
+        }
+      ], 
+      "SupportedInMultiActions": false,
+      "Tooltip": "This action mute or unmute a channel in voicemeeter", 
+      "UUID": "ninja.benny.voicemeeter.mute"
+    }
+  ], 
+  "Author": "Benny Scetbun", 
+  "CodePathWin": "voicemeeter.exe",
+  "PropertyInspectorPath": "propertyinspector/index.html",
+  "Description": "Mute or Unmute a channel in voicemeeter", 
+  "Name": "VoiceMeeter Un/Mute", 
+  "Icon": "pluginIcon", 
+  "URL": "", 
+  "Version": "1.2",
+  "OS": [
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ]
+}

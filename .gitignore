@@ -1,0 +1,4 @@
+Sources/Windows/win32
+Sources/Windows/x64
+Sources/Windows/.*
+Sources/DistributionTool.*
